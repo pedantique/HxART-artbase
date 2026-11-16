@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-16T01:44:46Z",
+  "updated": "2026-11-16T02:01:57Z",
   "artworks": [
     {
       "id": "Hannah-Richard-Avedon.jpg",
@@ -28,6 +28,45 @@
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-16T01:44:46Z",
       "updatedAt": "2026-11-16T01:44:46Z"
+    },
+    {
+      "id": "Hannah-Hawaiian-Airlines.png",
+      "artist": "Hawaiian Airlines",
+      "category": "Brands",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Hawaiian-Airlines-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Hawaiian-Airlines-thumb.hxartpack",
+      "imageSHA256": "0ee16a04e52f71b3cb85df958c5a278e9f67dcbc6a955f28e31ba5dc87303d59",
+      "thumbnailSHA256": "183c62ffcc2c3725e026f74615d8f8b40b7d7f374eba9010834bf5a9771c28f2",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "updatedAt": "2026-11-16T02:01:57Z"
+    },
+    {
+      "id": "Hannah-Versace.png",
+      "artist": "Versace",
+      "category": "Brands",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Versace-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Versace-thumb.hxartpack",
+      "imageSHA256": "f107579f67ba36c27b6ec6c722b34388e998d6ba52c1a08b09e1c17196f51744",
+      "thumbnailSHA256": "1888f85bc6f9bf6876e836eab685bbb269f3941514a6f8a0e7fc11a26a4284bc",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "updatedAt": "2026-11-16T02:01:57Z"
+    },
+    {
+      "id": "Hannah-Wendys.png",
+      "artist": "Wendy’s",
+      "category": "Brands",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Wendys-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Wendys-thumb.hxartpack",
+      "imageSHA256": "f2a4ad60071c81a3a2de715f5ed5c78169c7148eab252ffb754264f4a9fdb758",
+      "thumbnailSHA256": "7bd6e02c51767ff35ef2b3fcf7c2eed6d91fa7ea856d7600513ff6beba8f9970",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "updatedAt": "2026-11-16T02:01:57Z"
     }
   ],
   "removed": []
