@@ -1,7 +1,34 @@
 {
-  "schemaVersion": 1,
-  "updated": "2026-11-15T00:00:00Z",
-  "artworks": [],
+  "schemaVersion": 2,
+  "updated": "2026-11-16T01:44:46Z",
+  "artworks": [
+    {
+      "id": "Hannah-Richard-Avedon.jpg",
+      "artist": "Richard Avedon",
+      "category": "Photography",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Richard-Avedon-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Richard-Avedon-thumb.hxartpack",
+      "imageSHA256": "ac2afc8f5b447aa712ca0f2208b9fcfde4257a5c03f9ffebde38b3f2d6bc3d42",
+      "thumbnailSHA256": "d58c023bad5037017b3ed4d8dc379f9d248bcaa4806ab98e8f9903e02aa997b3",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "updatedAt": "2026-11-16T01:44:46Z"
+    },
+    {
+      "id": "Hannah-Newmans-Own.png",
+      "artist": "Newman’s Own",
+      "category": "Brands",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Newmans-Own-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Newmans-Own-thumb.hxartpack",
+      "imageSHA256": "96516a63275881b479cee84e5cf02858fd32e26d764889d1b945ef627f254df2",
+      "thumbnailSHA256": "64911fe5bd566c28ca1b4d35c531c7a26b87adf0466d917da8eb31e56d893e65",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-16T01:44:46Z",
+      "updatedAt": "2026-11-16T01:44:46Z"
+    }
+  ],
   "removed": []
 }
-
