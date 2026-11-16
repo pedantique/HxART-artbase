@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-16T02:01:57Z",
+  "updated": "2026-11-16T02:20:21Z",
   "artworks": [
     {
       "id": "Hannah-Richard-Avedon.jpg",
@@ -35,12 +35,12 @@
       "category": "Brands",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Hawaiian-Airlines-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Hawaiian-Airlines-thumb.hxartpack",
-      "imageSHA256": "0ee16a04e52f71b3cb85df958c5a278e9f67dcbc6a955f28e31ba5dc87303d59",
-      "thumbnailSHA256": "183c62ffcc2c3725e026f74615d8f8b40b7d7f374eba9010834bf5a9771c28f2",
+      "imageSHA256": "98cc9cb086b6eff5986688ac0726cb8e583dfcfd589dfa8bf7a3b2e26b0ce4a2",
+      "thumbnailSHA256": "63702a183f15dc4ac96b948845f26fb0a8da70cc8671d97818b323ee7880a56d",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
-      "updatedAt": "2026-11-16T02:01:57Z"
+      "updatedAt": "2026-11-16T02:20:21Z"
     },
     {
       "id": "Hannah-Versace.png",
@@ -48,12 +48,12 @@
       "category": "Brands",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Versace-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Versace-thumb.hxartpack",
-      "imageSHA256": "f107579f67ba36c27b6ec6c722b34388e998d6ba52c1a08b09e1c17196f51744",
-      "thumbnailSHA256": "1888f85bc6f9bf6876e836eab685bbb269f3941514a6f8a0e7fc11a26a4284bc",
+      "imageSHA256": "2557f1a5e93d47b333f5869df5115e2d046034aedd01f2874c8aa53952da2d49",
+      "thumbnailSHA256": "8dc9679bb38b1594577788a5ac71617db47cec6e3df2952509c367a30cb4a13d",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
-      "updatedAt": "2026-11-16T02:01:57Z"
+      "updatedAt": "2026-11-16T02:20:21Z"
     },
     {
       "id": "Hannah-Wendys.png",
@@ -61,12 +61,12 @@
       "category": "Brands",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Wendys-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Wendys-thumb.hxartpack",
-      "imageSHA256": "f2a4ad60071c81a3a2de715f5ed5c78169c7148eab252ffb754264f4a9fdb758",
-      "thumbnailSHA256": "7bd6e02c51767ff35ef2b3fcf7c2eed6d91fa7ea856d7600513ff6beba8f9970",
+      "imageSHA256": "a39d2a0c0166a2b3ea54a1b94c6f9bd0e877f6713a3166c2b77161400a42ab75",
+      "thumbnailSHA256": "b0114da48222f8f608f3d7ce10424c87cc0fe8e6b373e27efb5b41e1ce707584",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
-      "updatedAt": "2026-11-16T02:01:57Z"
+      "updatedAt": "2026-11-16T02:20:21Z"
     }
   ],
   "removed": []
