@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-16T03:13:37Z",
+  "updated": "2026-11-17T21:41:02Z",
   "artworks": [
     {
       "id": "Hannah-Richard-Avedon.jpg",
@@ -8,12 +8,26 @@
       "category": "Photography",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Richard-Avedon-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Richard-Avedon-thumb.hxartpack",
-      "imageSHA256": "ac2afc8f5b447aa712ca0f2208b9fcfde4257a5c03f9ffebde38b3f2d6bc3d42",
-      "thumbnailSHA256": "d58c023bad5037017b3ed4d8dc379f9d248bcaa4806ab98e8f9903e02aa997b3",
+      "imageSHA256": "64a6fab15dbb3980dc5f6d327be12372b9ce83f119639c7c7db15352c7a7b7cb",
+      "thumbnailSHA256": "13efbd4c34aef6f632ffdf6243e54d83fdae09d6ec57f777ed01bb104b0ed986",
       "assetEncryption": "aes-256-gcm-v1",
-      "imageFileExtension": "png",
-      "thumbnailFileExtension": "png",
-      "updatedAt": "2026-11-16T01:44:46Z"
+      "imageFileExtension": "jpg",
+      "thumbnailFileExtension": "jpg",
+      "updatedAt": "2026-11-17T21:41:02Z"
+    },
+    {
+      "id": "Hannah-Man-Ray.jpg",
+      "artist": "Man Ray",
+      "category": "Photography",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Man-Ray-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Man-Ray-thumb.hxartpack",
+      "imageSHA256": "aa5650a6d6a963061677258cd8b098c4cd5e74832575e6427bac49cdcfe83165",
+      "thumbnailSHA256": "f7dbcf3f0088d049f678df475f26287927be780ab334cefa36a87baef4cbb272",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "jpg",
+      "thumbnailFileExtension": "jpg",
+      "addedAt": "2026-11-17T21:41:02Z",
+      "updatedAt": "2026-11-17T21:41:02Z"
     },
     {
       "id": "Hannah-Newmans-Own.png",
@@ -70,31 +84,31 @@
     },
     {
       "id": "Hannah-KFC.png",
-      "artist": "KFC",
+      "artist": "HFC",
       "category": "Brands",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-KFC-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-KFC-thumb.hxartpack",
-      "imageSHA256": "8b8e2b2e1cccd82cd766505ddef59866e291fde6ddda4c8ebd8cc16cf0c4f6ab",
-      "thumbnailSHA256": "3d9ef12963fbae56807b214c332aa3ad946271c4dc6ceb7d11804a0e80e41426",
+      "imageSHA256": "f8643e6533698212bbaad2108d4586fc7a2b6c53a7c2543710eb96546a909f95",
+      "thumbnailSHA256": "a8a4b765f5d5ca2ddf8b4d07632466da952558e10f237f93d5e87ea79b229e0a",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-16T03:13:37Z",
-      "updatedAt": "2026-11-16T03:13:37Z"
+      "updatedAt": "2026-11-17T21:41:02Z"
     },
     {
       "id": "Hannah-Pringles.png",
-      "artist": "Pringles",
+      "artist": "Hannles",
       "category": "Brands",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Pringles-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Pringles-thumb.hxartpack",
-      "imageSHA256": "821368e9f4dbeffbe3d42a66396131311937382b0b7a461411fcd93a9e7d2964",
-      "thumbnailSHA256": "440025f57f589f4a65c45c9dc5b75b31a37be4e96580a9e9828ce434ec7e9a92",
+      "imageSHA256": "5aa5578dbd4ef998b56843d5581b905249b1097b92c19a003adbf9423df23111",
+      "thumbnailSHA256": "bb6ff0538b3c4434bd5a66084be233c4302b0bfc81129b6f8965686e1c554cc9",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-16T03:13:37Z",
-      "updatedAt": "2026-11-16T03:13:37Z"
+      "updatedAt": "2026-11-17T21:41:02Z"
     },
     {
       "id": "Hannah-Planters.png",
@@ -102,13 +116,13 @@
       "category": "Brands",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Planters-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Planters-thumb.hxartpack",
-      "imageSHA256": "699dbceeeafc74b0f55e4fa0466af2df1635c43ea099c853cdb180152452c901",
-      "thumbnailSHA256": "6488ef7c8496bb6b90d150f5a78f6962e8044d24cef22feb9af86ba836584081",
+      "imageSHA256": "1a2ead53e26bf84db4a4fd1002527bfeff432c12264bcc30250ab121881b659b",
+      "thumbnailSHA256": "c48d82b627ecff51f44e234457e8592f6a29dc2dd679dfd02776d3c8a2b24d60",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-16T03:13:37Z",
-      "updatedAt": "2026-11-16T03:13:37Z"
+      "updatedAt": "2026-11-17T21:41:02Z"
     },
     {
       "id": "Hannah-Johnnie-Walker.png",
@@ -130,13 +144,13 @@
       "category": "Brands",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Starbucks-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Starbucks-thumb.hxartpack",
-      "imageSHA256": "a55bfc9db4cf01d817e113455186243cb6abe8d52db7acc66dd771cca6b59d8b",
-      "thumbnailSHA256": "818c1c960c7a1fe260047c846b4ec5b751046c70d8aae8ee4607a4f66b299b12",
+      "imageSHA256": "daae367649d9ec485b7aba0474b1242c17651fd1ccc9c27a2bc88512031c0e15",
+      "thumbnailSHA256": "7c2b91883da3a8a1f29a33c4a655774a29e0fcbb676d79d0ce2c5a74f64ed3a5",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-16T03:13:37Z",
-      "updatedAt": "2026-11-16T03:13:37Z"
+      "updatedAt": "2026-11-17T21:41:02Z"
     },
     {
       "id": "Hannah-South-Park.png",
