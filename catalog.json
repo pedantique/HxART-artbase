@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-17T21:41:02Z",
+  "updated": "2026-11-18T02:39:04Z",
   "artworks": [
     {
       "id": "Hannah-Richard-Avedon.jpg",
@@ -28,6 +28,20 @@
       "thumbnailFileExtension": "jpg",
       "addedAt": "2026-11-17T21:41:02Z",
       "updatedAt": "2026-11-17T21:41:02Z"
+    },
+    {
+      "id": "Hannah-Jorn-Utzon.jpg",
+      "artist": "Jørn Utzon",
+      "category": "Architecture",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Jorn-Utzon-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Jorn-Utzon-thumb.hxartpack",
+      "imageSHA256": "598042a97447386be582052eae1ff47b807fdac8eb8b83212caa1ccd79d3296d",
+      "thumbnailSHA256": "5ae2d31177ddf5520bc445a205f875252855f9d3d0b21c034db1396cceb49fcd",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "jpg",
+      "thumbnailFileExtension": "jpg",
+      "addedAt": "2026-11-18T02:39:04Z",
+      "updatedAt": "2026-11-18T02:39:04Z"
     },
     {
       "id": "Hannah-Newmans-Own.png",
