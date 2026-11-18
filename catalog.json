@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-18T02:39:04Z",
+  "updated": "2026-11-18T03:42:16Z",
   "artworks": [
     {
       "id": "Hannah-Richard-Avedon.jpg",
@@ -179,6 +179,34 @@
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-16T03:13:37Z",
       "updatedAt": "2026-11-16T03:13:37Z"
+    },
+    {
+      "id": "Hannah-Amy-Sherald.png",
+      "artist": "Amy Sherald",
+      "category": "Paintings",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Amy-Sherald-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Amy-Sherald-thumb.hxartpack",
+      "imageSHA256": "44f8be4e6d9835d1677efbfc346853e1000848da5ed378559279f87727bbebf4",
+      "thumbnailSHA256": "414f66c87ffb6c35732adca0c3a7a02af1e827fa0b08ef7c08312f70f40bea02",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-18T03:42:16Z",
+      "updatedAt": "2026-11-18T03:42:16Z"
+    },
+    {
+      "id": "Hannah-Chaim-Soutine.png",
+      "artist": "Chaïm Soutine",
+      "category": "Paintings",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Chaim-Soutine-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Chaim-Soutine-thumb.hxartpack",
+      "imageSHA256": "5450ef1104697319025a45d7e1eb03f5372190d5dddd2fd61fba80ef508c6b79",
+      "thumbnailSHA256": "0a30a5a8e09d2ec037cdf9fa671cadaf0fce38f6b0cbf5e8da9efbd366d5f85c",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-18T03:42:16Z",
+      "updatedAt": "2026-11-18T03:42:16Z"
     }
   ],
   "removed": []
