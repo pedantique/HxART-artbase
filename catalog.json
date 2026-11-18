@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-18T04:08:07Z",
+  "updated": "2026-11-18T06:28:02Z",
   "artworks": [
     {
       "id": "Hannah-Richard-Avedon.jpg",
@@ -277,6 +277,48 @@
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-18T04:08:07Z",
       "updatedAt": "2026-11-18T04:08:07Z"
+    },
+    {
+      "id": "Hannah-The-Muppets.png",
+      "artist": "The Muppets",
+      "category": "Animation & comics",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Muppets-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Muppets-thumb.hxartpack",
+      "imageSHA256": "eb82b7439cc5b75b4e73957c61c1e0ccb542da16d47601c03b150e373ad37d09",
+      "thumbnailSHA256": "c1af04cc45d2bd1a517274d5efa11fcca27d6ac6c73e989977c8d69e9be80091",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-18T06:28:02Z",
+      "updatedAt": "2026-11-18T06:28:02Z"
+    },
+    {
+      "id": "Hannah-Camille-Pissarro.png",
+      "artist": "Camille Pissarro",
+      "category": "Paintings",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Camille-Pissarro-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Camille-Pissarro-thumb.hxartpack",
+      "imageSHA256": "edeca64f23c137050969da30f099840a79b6a0bd01039bb3d7b56a9f92fcbbe7",
+      "thumbnailSHA256": "81f5322be38307cd3b1936764e28349ca2e7174828b32144a5f8285e615eca8a",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-18T06:28:02Z",
+      "updatedAt": "2026-11-18T06:28:02Z"
+    },
+    {
+      "id": "Hannah-Mark-Rothko.png",
+      "artist": "Mark Rothko",
+      "category": "Paintings",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Mark-Rothko-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Mark-Rothko-thumb.hxartpack",
+      "imageSHA256": "ed88b09d338f2df4d21ea12f9ca37184ad7bb371afd18aebbd26e76786dd1730",
+      "thumbnailSHA256": "8e57ce87d7f4491ec414ff786bb083cd8dcb4c140945a47d3acab364c41c0333",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-18T06:28:02Z",
+      "updatedAt": "2026-11-18T06:28:02Z"
     }
   ],
   "removed": []
