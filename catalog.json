@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-18T03:42:16Z",
+  "updated": "2026-11-18T03:48:42Z",
   "artworks": [
     {
       "id": "Hannah-Richard-Avedon.jpg",
@@ -207,6 +207,62 @@
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-18T03:42:16Z",
       "updatedAt": "2026-11-18T03:42:16Z"
+    },
+    {
+      "id": "Hannah-Dan-Murphys.png",
+      "artist": "Dan Murphy’s",
+      "category": "Brands",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Dan-Murphys-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Dan-Murphys-thumb.hxartpack",
+      "imageSHA256": "d57a4ad6b1dc271f278a17724e20b6b0f4702bd9fbf45a7295e5207a6943b469",
+      "thumbnailSHA256": "080e3692a3887be7779deda2e54ee7535cc972411a2db501a0686fdd94a83e19",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-18T03:48:42Z",
+      "updatedAt": "2026-11-18T03:48:42Z"
+    },
+    {
+      "id": "Hannah-Bob-Jane.png",
+      "artist": "Bob Jane",
+      "category": "Brands",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Bob-Jane-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Bob-Jane-thumb.hxartpack",
+      "imageSHA256": "f6035311c563acc48b70b491bcef8bd24f78848862f9bddad6a816221c8a9107",
+      "thumbnailSHA256": "a38756900c96505a2b22037e21b2439968a2b4ba82b92ffc8b6e051e7821d127",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-18T03:48:42Z",
+      "updatedAt": "2026-11-18T03:48:42Z"
+    },
+    {
+      "id": "Hannah-Guzman-y-Gomez.png",
+      "artist": "Guzman y Gomez",
+      "category": "Brands",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Guzman-y-Gomez-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Guzman-y-Gomez-thumb.hxartpack",
+      "imageSHA256": "9e73342965513cb7cec793130094795eaf6ee670b331f6be040a80ee2c8f9e9c",
+      "thumbnailSHA256": "0ee665ce3dd9b9139550c8882f27ee6b61ee7ae1e538a8170b3b78ccfd1887a9",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-18T03:48:42Z",
+      "updatedAt": "2026-11-18T03:48:42Z"
+    },
+    {
+      "id": "Hannah-Dick-Smith-Electronics.png",
+      "artist": "Dick Smith Electronics",
+      "category": "Brands",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Dick-Smith-Electronics-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Dick-Smith-Electronics-thumb.hxartpack",
+      "imageSHA256": "0cc5c187c511e627acbd1d6c78396d1eb0b5dd49ceee5f3c57e4a867a92e1fd4",
+      "thumbnailSHA256": "dac8011d17e03a5fdd7769849fd20f9bc118535290c621e4aa833bcace759b41",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-18T03:48:42Z",
+      "updatedAt": "2026-11-18T03:48:42Z"
     }
   ],
   "removed": []
