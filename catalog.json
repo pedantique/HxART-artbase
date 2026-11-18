@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-18T03:48:42Z",
+  "updated": "2026-11-18T04:08:07Z",
   "artworks": [
     {
       "id": "Hannah-Richard-Avedon.jpg",
@@ -263,6 +263,20 @@
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-18T03:48:42Z",
       "updatedAt": "2026-11-18T03:48:42Z"
+    },
+    {
+      "id": "Hannah-Coppertone.png",
+      "artist": "Coppertone",
+      "category": "Brands",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Coppertone-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Coppertone-thumb.hxartpack",
+      "imageSHA256": "348f59e3f9af4423e82f10cf740731e29a89c63fd4e268899c3a4531e15f6050",
+      "thumbnailSHA256": "67eb3f12a538e735b3f6fad823ddf5d0b14abeeb4daa62112405fbbc7e31867d",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-18T04:08:07Z",
+      "updatedAt": "2026-11-18T04:08:07Z"
     }
   ],
   "removed": []
