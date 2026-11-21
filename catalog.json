@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-21T22:07:04Z",
+  "updated": "2026-11-21T22:14:48Z",
   "artworks": [
     {
       "id": "Hannah-Julie-Dowling.png",
@@ -22,13 +22,13 @@
       "category": "Paintings",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Kaylene-Whiskey-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Kaylene-Whiskey-thumb.hxartpack",
-      "imageSHA256": "fb4264b7f756f068135fd1612ddaa0ce6e49a768a81bf489cc8b80c789d2a693",
-      "thumbnailSHA256": "64ce537f7f66b4e4f469fa6f393f2a06be8893d0c96c20a6899cf74adcf15e01",
+      "imageSHA256": "deab5c515d548a79f6602e147ea0251b143f5cea1640301841064c70f057f619",
+      "thumbnailSHA256": "9b0ac42abf2e36359e0e87aad00e415c097f7c141010eea04873eb1512fe3a45",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-21T22:07:04Z",
-      "updatedAt": "2026-11-21T22:07:04Z"
+      "updatedAt": "2026-11-21T22:14:48Z"
     },
     {
       "id": "Hannah-Blak-Douglas.png",
