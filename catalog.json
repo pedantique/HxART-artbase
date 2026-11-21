@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-21T22:21:21Z",
+  "updated": "2026-11-21T22:28:43Z",
   "artworks": [
     {
       "id": "Hannah-Del-Kathryn-Barton.png",
@@ -8,13 +8,13 @@
       "category": "Paintings",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Del-Kathryn-Barton-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Del-Kathryn-Barton-thumb.hxartpack",
-      "imageSHA256": "fbc2795a8e198f2f310d7933f81d1203c9cd673ca2df79f491e71a53cdcc9180",
-      "thumbnailSHA256": "a8279af593c6901224cb3105b0601f4d3dab302754f32e580861142c66922ed0",
+      "imageSHA256": "6572b2b0a46a571b3c2bac8d66a45f4fe768c6774c8dfcab215eb613264870fd",
+      "thumbnailSHA256": "bdd9fb76a038c0accb551d50c2b8ab11615639be2114ecca8b0199ee0789ae19",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-21T22:21:21Z",
-      "updatedAt": "2026-11-21T22:21:21Z"
+      "updatedAt": "2026-11-21T22:28:43Z"
     },
     {
       "id": "Hannah-Julie-Dowling.png",
