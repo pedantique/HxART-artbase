@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-25T22:20:31Z",
+  "updated": "2026-11-25T22:51:56Z",
   "artworks": [
     {
       "id": "Hannah-Ai-Weiwei.jpg",
@@ -4082,13 +4082,13 @@
       "category": "Movies",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Wizard-of-Oz-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Wizard-of-Oz-thumb.hxartpack",
-      "imageSHA256": "7be0c7dbe61b5304945cacba6b30248746a6114deae62da6305d0881e8bd17e6",
-      "thumbnailSHA256": "f61435a38444250d91a7b22985f87240d465a7af98b2cd407c21e2d44d60dd7f",
+      "imageSHA256": "6a2af8b908dfe21b83db901cf7df133f29631514cee2c573dd8fa518e8816d08",
+      "thumbnailSHA256": "665383bb9f5b92e50fc5c71a3f20de717e1c26103c82c43639c391ae734b4e46",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-25T22:20:31Z",
-      "updatedAt": "2026-11-25T22:20:31Z"
+      "updatedAt": "2026-11-25T22:51:56Z"
     },
     {
       "id": "Hannah-Theodor-Seuss-Geisel.jpg",
