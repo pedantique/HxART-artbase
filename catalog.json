@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-23T10:09:36Z",
+  "updated": "2026-11-25T22:20:31Z",
   "artworks": [
     {
       "id": "Hannah-Ai-Weiwei.jpg",
@@ -480,7 +480,7 @@
     },
     {
       "id": "Hannah-Bob-Jane.png",
-      "artist": "Bob Jane",
+      "artist": "Bob Jane T-Marts",
       "category": "Brands",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Bob-Jane-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Bob-Jane-thumb.hxartpack",
@@ -578,7 +578,7 @@
     },
     {
       "id": "Hannah-Chanel.png",
-      "artist": "Chanel",
+      "artist": "Chanel No. 5",
       "category": "Brands",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Chanel-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Chanel-thumb.hxartpack",
@@ -1712,7 +1712,7 @@
     },
     {
       "id": "Hannah-KFC.png",
-      "artist": "HFC",
+      "artist": "KFC",
       "category": "Brands",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-KFC-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-KFC-thumb.hxartpack",
@@ -1754,7 +1754,7 @@
     },
     {
       "id": "Hannah-Pringles.png",
-      "artist": "Hannles",
+      "artist": "Pringles",
       "category": "Brands",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Pringles-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Pringles-thumb.hxartpack",
@@ -2006,7 +2006,7 @@
     },
     {
       "id": "Hannah-Jack-Daniels.jpg",
-      "artist": "Jack Daniels",
+      "artist": "Jack Daniel’s",
       "category": "Brands",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Jack-Daniels-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Jack-Daniels-thumb.hxartpack",
@@ -2706,7 +2706,7 @@
     },
     {
       "id": "Hannah-Les-Miserables.png",
-      "artist": "Les Miserables",
+      "artist": "Les Misérables",
       "category": "Theatre",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Les-Miserables-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Les-Miserables-thumb.hxartpack",
@@ -3839,11 +3839,11 @@
       "updatedAt": "2026-11-23T10:09:36Z"
     },
     {
-      "id": "Hannah-Russian-Nesting-Dolls.png",
-      "artist": "Russian Nesting Dolls",
+      "id": "Hannah-Matryoshka-Doll.png",
+      "artist": "Matryoshka Doll",
       "category": "Toys",
-      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Russian-Nesting-Dolls-image.hxartpack",
-      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Russian-Nesting-Dolls-thumb.hxartpack",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Matryoshka-Doll-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Matryoshka-Doll-thumb.hxartpack",
       "imageSHA256": "10a9d6fd119f499a38ce77ccab9f631267b647ab1c62749461180be367aa35c2",
       "thumbnailSHA256": "c857d5398b5a3e021b0c11e36d8303e353bb9e4bc794f445af33462785c3ebd0",
       "assetEncryption": "aes-256-gcm-v1",
@@ -3937,11 +3937,11 @@
       "updatedAt": "2026-11-23T10:09:36Z"
     },
     {
-      "id": "Hannah-Settlers-of-Challis.png",
-      "artist": "Settlers of Challis",
+      "id": "Hannah-Settlers-of-Catan.png",
+      "artist": "Settlers of Catan",
       "category": "Toys",
-      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Settlers-of-Challis-image.hxartpack",
-      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Settlers-of-Challis-thumb.hxartpack",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Settlers-of-Catan-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Settlers-of-Catan-thumb.hxartpack",
       "imageSHA256": "26da425b3b863e401103308ca57808fae1286578e7c296cdfde31f0514f500f4",
       "thumbnailSHA256": "81ce51d4d83c42370c7fa956184cd6eb1a85b1f454c1132399470bfb72e81ad2",
       "assetEncryption": "aes-256-gcm-v1",
@@ -4075,6 +4075,20 @@
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-18T06:28:02Z",
       "updatedAt": "2026-11-18T06:28:02Z"
+    },
+    {
+      "id": "Hannah-The-Wizard-of-Oz.png",
+      "artist": "The Wizard of Oz",
+      "category": "Movies",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Wizard-of-Oz-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Wizard-of-Oz-thumb.hxartpack",
+      "imageSHA256": "7be0c7dbe61b5304945cacba6b30248746a6114deae62da6305d0881e8bd17e6",
+      "thumbnailSHA256": "f61435a38444250d91a7b22985f87240d465a7af98b2cd407c21e2d44d60dd7f",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-25T22:20:31Z",
+      "updatedAt": "2026-11-25T22:20:31Z"
     },
     {
       "id": "Hannah-Theodor-Seuss-Geisel.jpg",
@@ -4511,5 +4525,8 @@
       "updatedAt": "2026-11-23T10:09:36Z"
     }
   ],
-  "removed": []
+  "removed": [
+    "Hannah-Russian-Nesting-Dolls.png",
+    "Hannah-Settlers-of-Challis.png"
+  ]
 }
