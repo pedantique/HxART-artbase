@@ -1,6 +1,21 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-26T10:11:38Z",
+  "updated": "2026-11-26T11:12:59Z",
+  "categories": [
+    { "name": "Paintings", "symbol": "paintpalette" },
+    { "name": "Photography", "symbol": "camera", "positionAfter": "Paintings" },
+    { "name": "Sculpture", "symbol": "figure.stand", "positionAfter": "Photography" },
+    { "name": "Immersive & installation", "symbol": "cube.transparent", "positionAfter": "Sculpture" },
+    { "name": "Animation & comics", "symbol": "bubble.left.and.bubble.right", "positionAfter": "Immersive & installation" },
+    { "name": "Fashion", "symbol": "hanger", "positionAfter": "Animation & comics" },
+    { "name": "Brands", "symbol": "tag", "positionAfter": "Fashion" },
+    { "name": "Theatre", "symbol": "theatermasks", "positionAfter": "Brands" },
+    { "name": "Movies", "symbol": "film", "positionAfter": "Theatre" },
+    { "name": "Television", "symbol": "tv", "positionAfter": "Movies" },
+    { "name": "Album Covers", "symbol": "opticaldisc.fill", "positionAfter": "Television" },
+    { "name": "Toys", "symbol": "teddybear.fill", "positionAfter": "Album Covers" },
+    { "name": "Architecture", "symbol": "house", "positionAfter": "Toys" }
+  ],
   "artworks": [
     {
       "id": "Hannah-Ai-Weiwei.jpg",
@@ -4866,13 +4881,13 @@
       "category": "Television",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Fleabag-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Fleabag-thumb.hxartpack",
-      "imageSHA256": "af229e2bd7719a267719e0a614f53e231543f938d24e58de9cd7c3db5a05142b",
-      "thumbnailSHA256": "a8281645a79df6e5549a7f3a8b563356b9eb6d1b9e72dd1bcaffb7172be424dd",
+      "imageSHA256": "5901ac5cf2ee378303a7a83445824a32c0727e1aceee955ca6af744e948e2f56",
+      "thumbnailSHA256": "6a023e24699c0ae0d04a99b88f5837f26f9d74a0c290bbd059923d6972a383b5",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T05:32:25Z"
+      "updatedAt": "2026-11-26T11:12:59Z"
     },
     {
       "id": "Hannah-The-Golden-Girls.png",
@@ -4880,13 +4895,13 @@
       "category": "Television",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Golden-Girls-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Golden-Girls-thumb.hxartpack",
-      "imageSHA256": "8427902a440272e3b7218ae60b971fa792151047edef40af25f5c6c33935e717",
-      "thumbnailSHA256": "5bb105a7d6ecf8e32bc0a90c52ec8a38428fc64bfe14661ba471599e4189b800",
+      "imageSHA256": "51a1d69a74f8b3d1ce76022efa648272e7e0d3953dfb98a0aaea48d1c7f01731",
+      "thumbnailSHA256": "cd5fc81ec49f3b11e74688250946d8fa8326eea72b7b89ad51cff68655e187aa",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T06:00:22Z",
-      "updatedAt": "2026-11-26T10:11:38Z"
+      "updatedAt": "2026-11-26T11:12:59Z"
     },
     {
       "id": "Hannah-Horses.png",
@@ -4908,13 +4923,13 @@
       "category": "Album Covers",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Hounds-of-Love-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Hounds-of-Love-thumb.hxartpack",
-      "imageSHA256": "89ee4d730a32c53d791f4849ef8a8bdc106ff1f5fabda79256c1f23982d872f5",
-      "thumbnailSHA256": "000519bad10e6bbf1e8376fe09c472907248906fcb6fc94b976f93c81a973c88",
+      "imageSHA256": "933aaaafa5d703d557d418f80ffc1f36fe8f336990106ecbf68eb62c1f7dc8f8",
+      "thumbnailSHA256": "49949510692ded122aee7e2263c9efe7b995cfce6c8a9c3663b09c8bf4306590",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T10:11:38Z",
-      "updatedAt": "2026-11-26T10:11:38Z"
+      "updatedAt": "2026-11-26T11:12:59Z"
     },
     {
       "id": "Hannah-Back-to-Black.png",
@@ -4936,13 +4951,13 @@
       "category": "Album Covers",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Rumours-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Rumours-thumb.hxartpack",
-      "imageSHA256": "2cc9c57836d42aecea4fde3f2deb3c4499f8e9c4a21a920aaa69e69eb00ce76e",
-      "thumbnailSHA256": "d927c9697d1e23cd065734b145b9f8399c725b561201e55cc83a895fc590db55",
+      "imageSHA256": "d29b265bc018d75e3d7cf5d296fec38887e9e37c249f0f48a0e1d0ef35dfbe64",
+      "thumbnailSHA256": "b4d2860499fba0b9220649640f4cc09878ad1f4dba0136a5749053cee61d99a6",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T10:11:38Z",
-      "updatedAt": "2026-11-26T10:11:38Z"
+      "updatedAt": "2026-11-26T11:12:59Z"
     }
   ],
   "removed": [
