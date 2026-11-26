@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-26T06:00:22Z",
+  "updated": "2026-11-26T10:11:38Z",
   "artworks": [
     {
       "id": "Hannah-Ai-Weiwei.jpg",
@@ -4698,13 +4698,13 @@
       "category": "Movies",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Flashdance-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Flashdance-thumb.hxartpack",
-      "imageSHA256": "8c812cff457cbe40e0ff02270db0231f2f76e4deb8547b09bfaf0f960279f866",
-      "thumbnailSHA256": "0b0eade7727398330839de4203f303ca68995413d73ed25b1dac5e1036f3219c",
+      "imageSHA256": "92aae000a128406e5937967151687dae66f5087ddc1ab4f9d1d3f8b258864edd",
+      "thumbnailSHA256": "7523674ab7db72c64131b82a7298065e81e7dfd7103fc1b6dde702352d49f5ff",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T06:00:22Z"
+      "updatedAt": "2026-11-26T10:11:38Z"
     },
     {
       "id": "Hannah-Marie-Antoinette.png",
@@ -4726,13 +4726,13 @@
       "category": "Movies",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Silence-of-the-Lambs-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Silence-of-the-Lambs-thumb.hxartpack",
-      "imageSHA256": "1e70a223eb94efc2c02aaa775211cf2b6a3022f6450431afb720028f6d7a0c8a",
-      "thumbnailSHA256": "983c218c0a5985fc0a936ead7db5e77e3c20b02fae05670577e98022e02b7417",
+      "imageSHA256": "82ab852dcce0d22172e1db544497e4d6f57951cefc1288af8a2a0d9fd4800f27",
+      "thumbnailSHA256": "fd1d777f1dfced3272342416504cd2a7f14fd4f9874ffd66ae58e724e9ec62c7",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T06:00:22Z"
+      "updatedAt": "2026-11-26T10:11:38Z"
     },
     {
       "id": "Hannah-The-Princess-Diaries.png",
@@ -4880,13 +4880,69 @@
       "category": "Television",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Golden-Girls-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Golden-Girls-thumb.hxartpack",
-      "imageSHA256": "b9c0d411459186cc3f4037186c5331c3b883f551ff36fe851e49714e00b2d37e",
-      "thumbnailSHA256": "dcfeb5456cab702a34a1a2d418b30adc997479e8e2cd0865e210f78a54166a04",
+      "imageSHA256": "8427902a440272e3b7218ae60b971fa792151047edef40af25f5c6c33935e717",
+      "thumbnailSHA256": "5bb105a7d6ecf8e32bc0a90c52ec8a38428fc64bfe14661ba471599e4189b800",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T06:00:22Z",
-      "updatedAt": "2026-11-26T06:00:22Z"
+      "updatedAt": "2026-11-26T10:11:38Z"
+    },
+    {
+      "id": "Hannah-Horses.png",
+      "artist": "Horses",
+      "category": "Album Covers",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Horses-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Horses-thumb.hxartpack",
+      "imageSHA256": "7725caa2d1cb2e3f161d9800c9ea90b10d6448da3f027e4bb9e6a91ebfdb5f78",
+      "thumbnailSHA256": "5adf7699c4108dd752442b0def173b47b87fc01973c531682bd3cab640727660",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-26T10:11:38Z",
+      "updatedAt": "2026-11-26T10:11:38Z"
+    },
+    {
+      "id": "Hannah-Hounds-of-Love.png",
+      "artist": "Hounds of Love",
+      "category": "Album Covers",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Hounds-of-Love-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Hounds-of-Love-thumb.hxartpack",
+      "imageSHA256": "89ee4d730a32c53d791f4849ef8a8bdc106ff1f5fabda79256c1f23982d872f5",
+      "thumbnailSHA256": "000519bad10e6bbf1e8376fe09c472907248906fcb6fc94b976f93c81a973c88",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-26T10:11:38Z",
+      "updatedAt": "2026-11-26T10:11:38Z"
+    },
+    {
+      "id": "Hannah-Back-to-Black.png",
+      "artist": "Back to Black",
+      "category": "Album Covers",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Back-to-Black-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Back-to-Black-thumb.hxartpack",
+      "imageSHA256": "7a727e3933214c022ecc4d5ce8a340534d7786920ec2dc20eb1bc19fcb3987b8",
+      "thumbnailSHA256": "0c89c5d83fd96278f3fa5e3e313ed650920039015c5f5d21e1c633d329ebd11f",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-26T10:11:38Z",
+      "updatedAt": "2026-11-26T10:11:38Z"
+    },
+    {
+      "id": "Hannah-Rumours.png",
+      "artist": "Rumours",
+      "category": "Album Covers",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Rumours-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Rumours-thumb.hxartpack",
+      "imageSHA256": "2cc9c57836d42aecea4fde3f2deb3c4499f8e9c4a21a920aaa69e69eb00ce76e",
+      "thumbnailSHA256": "d927c9697d1e23cd065734b145b9f8399c725b561201e55cc83a895fc590db55",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-26T10:11:38Z",
+      "updatedAt": "2026-11-26T10:11:38Z"
     }
   ],
   "removed": [
