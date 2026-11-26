@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-26T05:32:25Z",
+  "updated": "2026-11-26T06:00:22Z",
   "artworks": [
     {
       "id": "Hannah-Ai-Weiwei.jpg",
@@ -4628,13 +4628,13 @@
       "category": "Movies",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Everything-Everywhere-All-at-Once-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Everything-Everywhere-All-at-Once-thumb.hxartpack",
-      "imageSHA256": "3573b71b449997f1f1b07c205fcd4748a23c409fdd9dbb01cbd20ca07e185f6f",
-      "thumbnailSHA256": "2fbd9958327e1c3f6409e8f611f154154a1a0ed9b043e14d852a5d95a6663c5f",
+      "imageSHA256": "b4a667cbb0c50d5010dd1cb4099df68ea5f3eb6d992ea507e0c1d50563447353",
+      "thumbnailSHA256": "856cd182f8e728c3b42fcc32c0ed47c697c3d8642366e0027e8e2d7d7c2c2097",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T05:32:25Z"
+      "updatedAt": "2026-11-26T06:00:22Z"
     },
     {
       "id": "Hannah-Mary-Poppins.png",
@@ -4684,13 +4684,13 @@
       "category": "Movies",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Black-Swan-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Black-Swan-thumb.hxartpack",
-      "imageSHA256": "5da1dd1ca638eba8ce7875aacd7889d4ae997d03a4ea4b4c72835cdf172fca1f",
-      "thumbnailSHA256": "9bd751d538078a57b21799a34abf8f8c5d61f7d42636b5dada369853e38418fc",
+      "imageSHA256": "36da522b7cbef781909e91b161427a162d1427bbd7720a824e3c81e38577b4cb",
+      "thumbnailSHA256": "e4f9ad03f8e788a2c306def4191ba6a1530db278ea4503138202f3921cfd08d9",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T05:32:25Z"
+      "updatedAt": "2026-11-26T06:00:22Z"
     },
     {
       "id": "Hannah-Flashdance.png",
@@ -4698,13 +4698,13 @@
       "category": "Movies",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Flashdance-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Flashdance-thumb.hxartpack",
-      "imageSHA256": "e92b7200f179cc1d8dc6b044f5e7461219b46662f4f94cc03cb43c2c99d3ba7a",
-      "thumbnailSHA256": "ba8a03103d40f0fc7048f614a3baf9375d2f5cf84965ad2444f689dbb315ea7f",
+      "imageSHA256": "8c812cff457cbe40e0ff02270db0231f2f76e4deb8547b09bfaf0f960279f866",
+      "thumbnailSHA256": "0b0eade7727398330839de4203f303ca68995413d73ed25b1dac5e1036f3219c",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T05:32:25Z"
+      "updatedAt": "2026-11-26T06:00:22Z"
     },
     {
       "id": "Hannah-Marie-Antoinette.png",
@@ -4726,13 +4726,13 @@
       "category": "Movies",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Silence-of-the-Lambs-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Silence-of-the-Lambs-thumb.hxartpack",
-      "imageSHA256": "29f604badcf2b865e19a5b24afb115afe8c37a45678e55f7079306ad6982010b",
-      "thumbnailSHA256": "30e060e37fa66fc79585d408b381969cdb6bba26bcd0ec82374fa3ceb993d0ee",
+      "imageSHA256": "1e70a223eb94efc2c02aaa775211cf2b6a3022f6450431afb720028f6d7a0c8a",
+      "thumbnailSHA256": "983c218c0a5985fc0a936ead7db5e77e3c20b02fae05670577e98022e02b7417",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T05:32:25Z"
+      "updatedAt": "2026-11-26T06:00:22Z"
     },
     {
       "id": "Hannah-The-Princess-Diaries.png",
@@ -4754,13 +4754,13 @@
       "category": "Television",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Crown-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Crown-thumb.hxartpack",
-      "imageSHA256": "34dd98a03dd875d50e473d25639345d498942db67da0413abb8219afe006535a",
-      "thumbnailSHA256": "32e153bd2a0098bb3b943438c7b638d41d5697943e9391ac7538e21c2dae36e8",
+      "imageSHA256": "24f41d3205c66e4131a070e06b7510a1d92b6087f46c9f8e184a3cec834cf19d",
+      "thumbnailSHA256": "dfdda0fe46973792a3bd39cb755bc1c432d0c0165ad7a8e0eac57c72cce9a5db",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T05:32:25Z"
+      "updatedAt": "2026-11-26T06:00:22Z"
     },
     {
       "id": "Hannah-I-Love-Lucy.png",
@@ -4768,13 +4768,13 @@
       "category": "Television",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-I-Love-Lucy-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-I-Love-Lucy-thumb.hxartpack",
-      "imageSHA256": "918e9c5b262ee705e692101731ab688c5a917b16a9d18aa0513d5dd1f01a0b3f",
-      "thumbnailSHA256": "1b26f1b1ffb900407795f7ff05786f5c013a25858947722a80034f4c2186c749",
+      "imageSHA256": "20a8e98a346456589ca2d09469c3944003c6403710fd78229dd74959624e5f61",
+      "thumbnailSHA256": "786ca093f550d047c035d455b3b1cdeb759afc278f2f04d03a1397da39dadcdf",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T05:32:25Z"
+      "updatedAt": "2026-11-26T06:00:22Z"
     },
     {
       "id": "Hannah-Bewitched.png",
@@ -4824,13 +4824,13 @@
       "category": "Television",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Sex-and-the-City-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Sex-and-the-City-thumb.hxartpack",
-      "imageSHA256": "1aea9179de809fdd012a4c62c386c246ecff7507c8ee72cc173e3187fa830858",
-      "thumbnailSHA256": "ab12835dca19201162bec9c0bb710ec112010f7005c41033d1c7e510e1e3bc94",
+      "imageSHA256": "ee37adf4b081c834ed812aca688cc446a47630b6c3d50954b45f58052b7ad8c5",
+      "thumbnailSHA256": "b00d3205bbf3b7abd056a295a536c8ca4baac3c6e299eeb3a6d2af7a35daa6a7",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T05:32:25Z"
+      "updatedAt": "2026-11-26T06:00:22Z"
     },
     {
       "id": "Hannah-Murder-She-Wrote.png",
@@ -4838,13 +4838,13 @@
       "category": "Television",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Murder-She-Wrote-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Murder-She-Wrote-thumb.hxartpack",
-      "imageSHA256": "d21d877e7c5b1b4aa023ea946a6f5c9df4c8b1fd68bb99ee15cb35af0c93489d",
-      "thumbnailSHA256": "83bb6af9b20342538b66ec16a648dfea93bb9a1f9c8598a88d9499f7140abcfd",
+      "imageSHA256": "4c4bee4a7c9b00efdafc052b9a0875eb29b07b394ccda0dec7a94895a3dbcb37",
+      "thumbnailSHA256": "fa3e30867d61a71a25766b404eea0a822ac2587c0b42fe57a041060a78485a4f",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T05:32:25Z"
+      "updatedAt": "2026-11-26T06:00:22Z"
     },
     {
       "id": "Hannah-The-Handmaids-Tale.png",
@@ -4852,13 +4852,13 @@
       "category": "Television",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Handmaids-Tale-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Handmaids-Tale-thumb.hxartpack",
-      "imageSHA256": "8cdae61cbfd32b52824a82cdde3121a00bcc941e2c0750adcadd96638af09ba1",
-      "thumbnailSHA256": "7c045d5a089b981be21bf8e959570628812554b25e693c994f9071b268ab1d30",
+      "imageSHA256": "dcf01d74c85208655d8e8657d9389c821835904804eb440b33a78dcbfd9e4d7c",
+      "thumbnailSHA256": "8674b840fb6953830626b9cb7af9993abefb753cca6f82de4a4cc23a95d01004",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T05:32:25Z"
+      "updatedAt": "2026-11-26T06:00:22Z"
     },
     {
       "id": "Hannah-Fleabag.png",
@@ -4873,6 +4873,20 @@
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
       "updatedAt": "2026-11-26T05:32:25Z"
+    },
+    {
+      "id": "Hannah-The-Golden-Girls.png",
+      "artist": "The Golden Girls",
+      "category": "Television",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Golden-Girls-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Golden-Girls-thumb.hxartpack",
+      "imageSHA256": "b9c0d411459186cc3f4037186c5331c3b883f551ff36fe851e49714e00b2d37e",
+      "thumbnailSHA256": "dcfeb5456cab702a34a1a2d418b30adc997479e8e2cd0865e210f78a54166a04",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-26T06:00:22Z",
+      "updatedAt": "2026-11-26T06:00:22Z"
     }
   ],
   "removed": [
