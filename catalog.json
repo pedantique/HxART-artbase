@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-25T22:51:56Z",
+  "updated": "2026-11-26T00:12:11Z",
   "artworks": [
     {
       "id": "Hannah-Ai-Weiwei.jpg",
@@ -4523,6 +4523,90 @@
       "thumbnailFileExtension": "jpg",
       "addedAt": "2026-11-23T10:09:36Z",
       "updatedAt": "2026-11-23T10:09:36Z"
+    },
+    {
+      "id": "Hannah-Lara-Croft-Tomb-Raider.png",
+      "artist": "Lara Croft: Tomb Raider",
+      "category": "Movies",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Lara-Croft-Tomb-Raider-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Lara-Croft-Tomb-Raider-thumb.hxartpack",
+      "imageSHA256": "61f7a8ac1314b5e3318d54d5715034ec6bd154d05c5dc34f2450b8acd7763698",
+      "thumbnailSHA256": "56652cfbcab6adf65c237436e967a6c036212432a0f9c296bb614ea725cd6bcd",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-26T00:12:11Z",
+      "updatedAt": "2026-11-26T00:12:11Z"
+    },
+    {
+      "id": "Hannah-Amelie.png",
+      "artist": "Amélie",
+      "category": "Movies",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Amelie-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Amelie-thumb.hxartpack",
+      "imageSHA256": "6ff0b4cee8f58b01c40f115b3a8af42363d193a1048d9071a54efda862c8a656",
+      "thumbnailSHA256": "bc922459c58435683b61635086336aad83135422ccbf1894468fd1f461a09041",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-26T00:12:11Z",
+      "updatedAt": "2026-11-26T00:12:11Z"
+    },
+    {
+      "id": "Hannah-Breakfast-at-Tiffanys.png",
+      "artist": "Breakfast at Tiffany’s",
+      "category": "Movies",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Breakfast-at-Tiffanys-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Breakfast-at-Tiffanys-thumb.hxartpack",
+      "imageSHA256": "92e4675ccc049f339ac3469e2f814bc9987b4cf27c99d3afd15d9b77f46b0f2b",
+      "thumbnailSHA256": "b9d273ecacfe81c6bebe1ce3efb22dab0e4c1e9c93ce777667c37b982dd458ee",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-26T00:12:11Z",
+      "updatedAt": "2026-11-26T00:12:11Z"
+    },
+    {
+      "id": "Hannah-Cleopatra.png",
+      "artist": "Cleopatra",
+      "category": "Movies",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Cleopatra-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Cleopatra-thumb.hxartpack",
+      "imageSHA256": "5194a69877891fe10dde54257729798f633b11b9c83c2f5c1f78098530cffcb5",
+      "thumbnailSHA256": "786224506fff99d5778c96bd3daf45904e2e6bc5d56387ca6fc781b75a5b7b94",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-26T00:12:11Z",
+      "updatedAt": "2026-11-26T00:12:11Z"
+    },
+    {
+      "id": "Hannah-Legally-Blonde.png",
+      "artist": "Legally Blonde",
+      "category": "Movies",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Legally-Blonde-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Legally-Blonde-thumb.hxartpack",
+      "imageSHA256": "6f90a124e273d3a99c388f2e3d8e74550a0dfcbfaf33c24abf221adad26a3b24",
+      "thumbnailSHA256": "52a18d2a6a2ae0c46a0a8d44c5b748a2ad3d16190ac0acd4c145f660c555a5f4",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-26T00:12:11Z",
+      "updatedAt": "2026-11-26T00:12:11Z"
+    },
+    {
+      "id": "Hannah-Wonder-Woman.png",
+      "artist": "Wonder Woman",
+      "category": "Movies",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Wonder-Woman-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Wonder-Woman-thumb.hxartpack",
+      "imageSHA256": "cd5a5f842f81a5f950c044976dba383fdc823be1c60852ad7485357f7754cbcc",
+      "thumbnailSHA256": "6964e0ef8b9617035349b83c22a8cccd872f4c6be9a000e980832da1457b7b8f",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-26T00:12:11Z",
+      "updatedAt": "2026-11-26T00:12:11Z"
     }
   ],
   "removed": [
