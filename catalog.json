@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-27T00:49:25Z",
+  "updated": "2026-11-27T03:17:28Z",
   "categories": [
     { "name": "Paintings", "symbol": "paintpalette" },
     { "name": "Photography", "symbol": "camera", "positionAfter": "Paintings" },
@@ -3859,13 +3859,13 @@
       "category": "Toys",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Matryoshka-Doll-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Matryoshka-Doll-thumb.hxartpack",
-      "imageSHA256": "10a9d6fd119f499a38ce77ccab9f631267b647ab1c62749461180be367aa35c2",
-      "thumbnailSHA256": "c857d5398b5a3e021b0c11e36d8303e353bb9e4bc794f445af33462785c3ebd0",
+      "imageSHA256": "6d30fc2cf5dbee394bc8fb97e1705f964b4704f8f5d00997f961cbc5b0ecae03",
+      "thumbnailSHA256": "3c4639ba534b84c76e595ce11dfabece9ba97f2ae3b71d05d9e4b32a81d96941",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-23T08:31:07Z",
-      "updatedAt": "2026-11-23T10:09:36Z"
+      "updatedAt": "2026-11-27T03:17:28Z"
     },
     {
       "id": "Hannah-Salvador-Dali-The-Persistence-of-Memory.jpg",
@@ -4083,13 +4083,13 @@
       "category": "Animation & comics",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Muppets-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Muppets-thumb.hxartpack",
-      "imageSHA256": "710f494191caad16d4e22f98a6410cf1b6a6dbfaaa0f79d1543a27534ac553d9",
-      "thumbnailSHA256": "beef4e7426389f3f4d67f213af70075fba5ae973857a994eeaffbf1459038523",
+      "imageSHA256": "b8449bcba215b607900c5af79f88000c9bb10eddcd378e4a696044364c7094a6",
+      "thumbnailSHA256": "e1707d7789975bac0c2c1dd360ef5b22a759d19ab0671af3b8e640dd428d76f2",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-18T06:28:02Z",
-      "updatedAt": "2026-11-18T06:28:02Z"
+      "updatedAt": "2026-11-27T03:17:28Z"
     },
     {
       "id": "Hannah-The-Wizard-of-Oz.png",
@@ -4601,13 +4601,13 @@
       "category": "Movies",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Legally-Blonde-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Legally-Blonde-thumb.hxartpack",
-      "imageSHA256": "6f90a124e273d3a99c388f2e3d8e74550a0dfcbfaf33c24abf221adad26a3b24",
-      "thumbnailSHA256": "52a18d2a6a2ae0c46a0a8d44c5b748a2ad3d16190ac0acd4c145f660c555a5f4",
+      "imageSHA256": "757b83056b7cddbd3e549154fea627da58df6bdebba81f6c91bd9bd73326910b",
+      "thumbnailSHA256": "fd153014ef6b9718642a9b86c1c821a4642906126b0787327324ae07d653c4d3",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T00:12:11Z",
-      "updatedAt": "2026-11-26T00:12:11Z"
+      "updatedAt": "2026-11-27T03:17:28Z"
     },
     {
       "id": "Hannah-Wonder-Woman.png",
@@ -4615,13 +4615,13 @@
       "category": "Movies",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Wonder-Woman-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Wonder-Woman-thumb.hxartpack",
-      "imageSHA256": "cd5a5f842f81a5f950c044976dba383fdc823be1c60852ad7485357f7754cbcc",
-      "thumbnailSHA256": "6964e0ef8b9617035349b83c22a8cccd872f4c6be9a000e980832da1457b7b8f",
+      "imageSHA256": "5e7fa8033c034482f4fca60cfea88be3d5d852bbc41c2c24b68567c2afd147d5",
+      "thumbnailSHA256": "eb5d96fd6d1f07c887a796aaf626e6a347b7a085673c90bc392dc6909d2c9d09",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T00:12:11Z",
-      "updatedAt": "2026-11-26T00:12:11Z"
+      "updatedAt": "2026-11-27T03:17:28Z"
     },
     {
       "id": "Hannah-The-Devil-Wears-Prada.png",
@@ -4629,13 +4629,13 @@
       "category": "Movies",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Devil-Wears-Prada-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Devil-Wears-Prada-thumb.hxartpack",
-      "imageSHA256": "1a8634db6d0856e391cc48fbf62fbd2b3647ddbdbec19f546928ba612a7f6d2f",
-      "thumbnailSHA256": "1f3a3e802154af73360dfd058747feefdd36d611101070eeada81aef4f4fdd0d",
+      "imageSHA256": "c682630198d39b9764bcb7a7d0c6fb3e6046538356e1d8ffe9300b633a5608ad",
+      "thumbnailSHA256": "c470bd5733b7137f365786c0bcdd4bc8a50767b5a4770524f0e554a513d15cdb",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T05:32:25Z"
+      "updatedAt": "2026-11-27T03:17:28Z"
     },
     {
       "id": "Hannah-Everything-Everywhere-All-at-Once.png",
@@ -4723,17 +4723,17 @@
     },
     {
       "id": "Hannah-Marie-Antoinette.png",
-      "artist": "Marie Antoinette",
+      "artist": "Marie Hantoinette",
       "category": "Movies",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Marie-Antoinette-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Marie-Antoinette-thumb.hxartpack",
-      "imageSHA256": "626cf6989b2306f04a81f2205ab45b1cb59750d2643ba0c03c88bc6c09054a35",
-      "thumbnailSHA256": "af18e32d0c1af179b7dec7d4c61dec6ddd99bb7d34b1db440aad75a825748fc4",
+      "imageSHA256": "e84d97f7e329f45e961f2a4921d326d2920c9c3645cbf28f6f4915678aac9754",
+      "thumbnailSHA256": "08ba6285191f5152626b66894e9d0b8f2d66ff3d867b63533466f0c4e86909a4",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T05:32:25Z",
-      "updatedAt": "2026-11-26T05:32:25Z"
+      "updatedAt": "2026-11-27T03:17:28Z"
     },
     {
       "id": "Hannah-The-Silence-of-the-Lambs.png",
@@ -4895,13 +4895,13 @@
       "category": "Television",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Golden-Girls-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Golden-Girls-thumb.hxartpack",
-      "imageSHA256": "51a1d69a74f8b3d1ce76022efa648272e7e0d3953dfb98a0aaea48d1c7f01731",
-      "thumbnailSHA256": "cd5fc81ec49f3b11e74688250946d8fa8326eea72b7b89ad51cff68655e187aa",
+      "imageSHA256": "d7f8518ae0eb0a668453c280f412916a5b0606d7d74f46d289fec8b835e5c6dd",
+      "thumbnailSHA256": "b143827b65bba4747811de6b427fc45ae56dfa0e2d481709761f02645694775f",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T06:00:22Z",
-      "updatedAt": "2026-11-26T11:12:59Z"
+      "updatedAt": "2026-11-27T03:17:28Z"
     },
     {
       "id": "Hannah-Horses.png",
@@ -4986,6 +4986,34 @@
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-27T00:49:25Z",
       "updatedAt": "2026-11-27T00:49:25Z"
+    },
+    {
+      "id": "Hannah-Snow-White.png",
+      "artist": "Snow White",
+      "category": "Animation & comics",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Snow-White-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Snow-White-thumb.hxartpack",
+      "imageSHA256": "a8ae512f92122e3a75052fdec6f76762727e085f4fcb4813598df5a74e51e247",
+      "thumbnailSHA256": "e3851e876fd7ce243a64617b4041586230b90f4062547c15ef3b2ff858e9d301",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-27T03:17:28Z",
+      "updatedAt": "2026-11-27T03:17:28Z"
+    },
+    {
+      "id": "Hannah-101-Dalmatians.png",
+      "artist": "101 Cavoodles",
+      "category": "Animation & comics",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-101-Dalmatians-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-101-Dalmatians-thumb.hxartpack",
+      "imageSHA256": "1bc3530cbcde0e5a239468b463fd7dc9e12e332abc942d2901dcef514194dfb3",
+      "thumbnailSHA256": "e06249ec0b11ae17b787020ff9ec6d72806e5b328e7f715fe4a56d36eef87d98",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-27T03:17:28Z",
+      "updatedAt": "2026-11-27T03:17:28Z"
     }
   ],
   "removed": [
