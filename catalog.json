@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-27T05:14:26Z",
+  "updated": "2026-11-27T09:41:36Z",
   "categories": [
     { "name": "Paintings", "symbol": "paintpalette" },
     { "name": "Photography", "symbol": "camera", "positionAfter": "Paintings" },
@@ -12,8 +12,8 @@
     { "name": "Theatre", "symbol": "theatermasks", "positionAfter": "Brands" },
     { "name": "Movies", "symbol": "film", "positionAfter": "Theatre" },
     { "name": "Television", "symbol": "tv", "positionAfter": "Movies" },
-    { "name": "Album Covers", "symbol": "opticaldisc.fill", "positionAfter": "Television" },
-    { "name": "Toys", "symbol": "teddybear.fill", "positionAfter": "Album Covers" },
+    { "name": "Albums", "symbol": "opticaldisc.fill", "positionAfter": "Television" },
+    { "name": "Toys", "symbol": "teddybear.fill", "positionAfter": "Albums" },
     { "name": "Architecture", "symbol": "house", "positionAfter": "Toys" }
   ],
   "artworks": [
@@ -4906,7 +4906,7 @@
     {
       "id": "Hannah-Horses.png",
       "artist": "Horses",
-      "category": "Album Covers",
+      "category": "Albums",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Horses-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Horses-thumb.hxartpack",
       "imageSHA256": "7725caa2d1cb2e3f161d9800c9ea90b10d6448da3f027e4bb9e6a91ebfdb5f78",
@@ -4920,7 +4920,7 @@
     {
       "id": "Hannah-Hounds-of-Love.png",
       "artist": "Hounds of Love",
-      "category": "Album Covers",
+      "category": "Albums",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Hounds-of-Love-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Hounds-of-Love-thumb.hxartpack",
       "imageSHA256": "933aaaafa5d703d557d418f80ffc1f36fe8f336990106ecbf68eb62c1f7dc8f8",
@@ -4934,7 +4934,7 @@
     {
       "id": "Hannah-Back-to-Black.png",
       "artist": "Back to Black",
-      "category": "Album Covers",
+      "category": "Albums",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Back-to-Black-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Back-to-Black-thumb.hxartpack",
       "imageSHA256": "7a727e3933214c022ecc4d5ce8a340534d7786920ec2dc20eb1bc19fcb3987b8",
@@ -4948,7 +4948,7 @@
     {
       "id": "Hannah-Rumours.png",
       "artist": "Rumours",
-      "category": "Album Covers",
+      "category": "Albums",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Rumours-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Rumours-thumb.hxartpack",
       "imageSHA256": "d29b265bc018d75e3d7cf5d296fec38887e9e37c249f0f48a0e1d0ef35dfbe64",
@@ -5007,13 +5007,27 @@
       "category": "Animation & comics",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-101-Dalmatians-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-101-Dalmatians-thumb.hxartpack",
-      "imageSHA256": "0dc1d3c8e47c137c70a760da4f96a81ebffca037cabd26a6839e23f4d387d33c",
-      "thumbnailSHA256": "98bcb074d943e4ca81fca9b5394c798bd62e1961c637ab436ec6fc62d931d9c5",
+      "imageSHA256": "250f2ee3a63ff64898a47b543a50ff0de5d54ba4b227527375ac70bb8fa902a9",
+      "thumbnailSHA256": "df2f43bc3fa919161cc660806daf96eb6e9c9952dcc62dd2a25cb751bfc3595f",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-27T03:17:28Z",
-      "updatedAt": "2026-11-27T03:42:24Z"
+      "updatedAt": "2026-11-27T09:41:36Z"
+    },
+    {
+      "id": "Hannah-101-Cavoodles-Movie.png",
+      "artist": "101 Cavoodles",
+      "category": "Movies",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-101-Cavoodles-Movie-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-101-Cavoodles-Movie-thumb.hxartpack",
+      "imageSHA256": "c05e14baba24dffbca1b0c9ff903701ee6a3fcfd4be8eb0cfa07dbf168d91c67",
+      "thumbnailSHA256": "8343ccc097047c7180f92856872c626623f2b0f10c97e541ec7025e527b21d5c",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-27T09:41:36Z",
+      "updatedAt": "2026-11-27T09:41:36Z"
     }
   ],
   "removed": [
