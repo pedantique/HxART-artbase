@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-26T23:57:52Z",
+  "updated": "2026-11-27T00:49:25Z",
   "categories": [
     { "name": "Paintings", "symbol": "paintpalette" },
     { "name": "Photography", "symbol": "camera", "positionAfter": "Paintings" },
@@ -4972,6 +4972,20 @@
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-26T22:45:08Z",
       "updatedAt": "2026-11-26T23:57:52Z"
+    },
+    {
+      "id": "Hannah-Muriels-Wedding.png",
+      "artist": "Muriel’s Wedding",
+      "category": "Movies",
+      "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Muriels-Wedding-image.hxartpack",
+      "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Muriels-Wedding-thumb.hxartpack",
+      "imageSHA256": "5326b344ad7686c1982d72c69b44825b7b6522cf2195221143f80e31cc52975a",
+      "thumbnailSHA256": "0b32601d52a1b0c75d7e173c8608f464d2d1d8d7093d87e8997f9145decc1b22",
+      "assetEncryption": "aes-256-gcm-v1",
+      "imageFileExtension": "png",
+      "thumbnailFileExtension": "png",
+      "addedAt": "2026-11-27T00:49:25Z",
+      "updatedAt": "2026-11-27T00:49:25Z"
     }
   ],
   "removed": [
