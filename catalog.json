@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-27T03:42:24Z",
+  "updated": "2026-11-27T05:14:26Z",
   "categories": [
     { "name": "Paintings", "symbol": "paintpalette" },
     { "name": "Photography", "symbol": "camera", "positionAfter": "Paintings" },
@@ -4993,13 +4993,13 @@
       "category": "Animation & comics",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Snow-White-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Snow-White-thumb.hxartpack",
-      "imageSHA256": "1cb8ff02bf884c265ac16eb6184a5a78ff3481e3f3f56619d061d4b21406a952",
-      "thumbnailSHA256": "7386a0821e3f5dea6221b0c218ae61ebbfbd304b0610fb320d025771d9ab1138",
+      "imageSHA256": "84bed25d9761f3197c83a5715e97fad7b51a09943f7dcf7b84d0af5a4eff8d7a",
+      "thumbnailSHA256": "c27b20d8de39f520ba1ce2c92e01d470d8b9418843cf1ec02ea3800196a9a5ef",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-27T03:17:28Z",
-      "updatedAt": "2026-11-27T03:42:24Z"
+      "updatedAt": "2026-11-27T05:14:26Z"
     },
     {
       "id": "Hannah-101-Dalmatians.png",
