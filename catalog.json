@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-11-27T03:17:28Z",
+  "updated": "2026-11-27T03:42:24Z",
   "categories": [
     { "name": "Paintings", "symbol": "paintpalette" },
     { "name": "Photography", "symbol": "camera", "positionAfter": "Paintings" },
@@ -4079,17 +4079,17 @@
     },
     {
       "id": "Hannah-The-Muppets.png",
-      "artist": "The Muppets",
+      "artist": "The Chalpets",
       "category": "Animation & comics",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Muppets-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Muppets-thumb.hxartpack",
-      "imageSHA256": "b8449bcba215b607900c5af79f88000c9bb10eddcd378e4a696044364c7094a6",
-      "thumbnailSHA256": "e1707d7789975bac0c2c1dd360ef5b22a759d19ab0671af3b8e640dd428d76f2",
+      "imageSHA256": "98e07b0cc2b9583b5fbf83c7360f0af7b00d8eb88f52accbf74a76950fa0e936",
+      "thumbnailSHA256": "1f804519ebf020eddab65edade6b1eec6c2a77804735a68f4f9c2b63cfa5da84",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-18T06:28:02Z",
-      "updatedAt": "2026-11-27T03:17:28Z"
+      "updatedAt": "2026-11-27T03:42:24Z"
     },
     {
       "id": "Hannah-The-Wizard-of-Oz.png",
@@ -4993,13 +4993,13 @@
       "category": "Animation & comics",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Snow-White-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Snow-White-thumb.hxartpack",
-      "imageSHA256": "a8ae512f92122e3a75052fdec6f76762727e085f4fcb4813598df5a74e51e247",
-      "thumbnailSHA256": "e3851e876fd7ce243a64617b4041586230b90f4062547c15ef3b2ff858e9d301",
+      "imageSHA256": "1cb8ff02bf884c265ac16eb6184a5a78ff3481e3f3f56619d061d4b21406a952",
+      "thumbnailSHA256": "7386a0821e3f5dea6221b0c218ae61ebbfbd304b0610fb320d025771d9ab1138",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-27T03:17:28Z",
-      "updatedAt": "2026-11-27T03:17:28Z"
+      "updatedAt": "2026-11-27T03:42:24Z"
     },
     {
       "id": "Hannah-101-Dalmatians.png",
@@ -5007,13 +5007,13 @@
       "category": "Animation & comics",
       "imageURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-101-Dalmatians-image.hxartpack",
       "thumbnailURL": "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-101-Dalmatians-thumb.hxartpack",
-      "imageSHA256": "1bc3530cbcde0e5a239468b463fd7dc9e12e332abc942d2901dcef514194dfb3",
-      "thumbnailSHA256": "e06249ec0b11ae17b787020ff9ec6d72806e5b328e7f715fe4a56d36eef87d98",
+      "imageSHA256": "0dc1d3c8e47c137c70a760da4f96a81ebffca037cabd26a6839e23f4d387d33c",
+      "thumbnailSHA256": "98bcb074d943e4ca81fca9b5394c798bd62e1961c637ab436ec6fc62d931d9c5",
       "assetEncryption": "aes-256-gcm-v1",
       "imageFileExtension": "png",
       "thumbnailFileExtension": "png",
       "addedAt": "2026-11-27T03:17:28Z",
-      "updatedAt": "2026-11-27T03:17:28Z"
+      "updatedAt": "2026-11-27T03:42:24Z"
     }
   ],
   "removed": [
