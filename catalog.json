@@ -3683,6 +3683,20 @@
       "updatedAt" : "2026-11-28T21:30:00Z"
     },
     {
+      "addedAt" : "2026-11-28T22:45:00Z",
+      "artist" : "René Magritte (The Empire of Light)",
+      "assetEncryption" : "aes-256-gcm-v1",
+      "category" : "Paintings",
+      "id" : "Hannah-Rene-Magritte-The-Empire-of-Light.jpg",
+      "imageFileExtension" : "jpg",
+      "imageSHA256" : "57b8e3e4daedd87ce8a712f3321c55b46627f7821c281632a122e423d7d605c0",
+      "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Rene-Magritte-The-Empire-of-Light-image.hxartpack",
+      "thumbnailFileExtension" : "jpg",
+      "thumbnailSHA256" : "7f7531d4ea5db2a677eb5e4ae3c9e53f5237ab077daffcb4659998efc8934b6a",
+      "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Rene-Magritte-The-Empire-of-Light-thumb.hxartpack",
+      "updatedAt" : "2026-11-28T22:45:00Z"
+    },
+    {
       "addedAt" : "2026-11-17T21:41:02Z",
       "artist" : "Richard Avedon",
       "assetEncryption" : "aes-256-gcm-v1",
@@ -5379,5 +5393,5 @@
     "Hannah-Salisbury-Road.png"
   ],
   "schemaVersion" : 2,
-  "updated" : "2026-11-28T22:20:00Z"
+  "updated" : "2026-11-28T22:45:00Z"
 }
