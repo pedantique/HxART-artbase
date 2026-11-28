@@ -3367,12 +3367,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Pablo-Picasso-Rose-Period.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "c0ffb62c96a61474fcbba59ec0a80b64ecf12783aa4fd7ea9244d05bcb7bb026",
+      "imageSHA256" : "f4821ad6559c7f8f96a967958809ae0d3ff9a93729e3b160194c6ddb84474e66",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Pablo-Picasso-Rose-Period-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "a167df0bd314d2b6efff57b5c0f5c3557fb182474f70157a8e94767c428b414a",
+      "thumbnailSHA256" : "ed7061dbeff85909eb569859f22932aae77ccc0b44743ab7731b0a0fdcea95ca",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Pablo-Picasso-Rose-Period-thumb.hxartpack",
-      "updatedAt" : "2026-11-19T04:02:36Z"
+      "updatedAt" : "2026-11-28T22:20:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -3451,12 +3451,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Philip-Guston.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "f1d0666082825aa8f7fecdf9af56ba2a148f83734b3152fe6fdca02e9172894f",
+      "imageSHA256" : "0b92572c2acced67d4878d3271512335373e3d7cd7c2ae1cec9fa998b20fe90c",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Philip-Guston-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "fe4c5e8d06832b28825ae56f939787e3d819cfa192b0dd7132245078f6ddcb29",
+      "thumbnailSHA256" : "34d8b9dfb6dc87dd52c38b10fa6f199d097d167b0aa765ed457be8d489099f54",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Philip-Guston-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T22:20:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -3479,12 +3479,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Pierre-Auguste-Renoir-Ingresque-Period.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "dcb4bc74dc5327c725700d5ddf5c1abc535d1866d136b1b402c6377f312afd40",
+      "imageSHA256" : "7a32a1350eb05e1b6ab7432f843863f0819d41c82a7e2318f00bc3885b9863bb",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Pierre-Auguste-Renoir-Ingresque-Period-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "bc6567db3116d3a42eb8eaf3d60c1c00aa3ac1e4520c6885d19bebe459568143",
+      "thumbnailSHA256" : "edd2d70f499ffc28b80ccffe9ccbfdf3cf9b838d6f5af7470cc7c4c9c24009b6",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Pierre-Auguste-Renoir-Ingresque-Period-thumb.hxartpack",
-      "updatedAt" : "2026-11-19T04:02:36Z"
+      "updatedAt" : "2026-11-28T22:20:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -4389,12 +4389,12 @@
       "category" : "Paintings",
       "id" : "Hannah-William-Morris.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "e9fe3dfe8d21b284790a6b4c97e25fc8b5190226a0f8d6c3bc0631edc62807c5",
+      "imageSHA256" : "4a5f716503b78b95de2226c9777da80564ccb0412d6fe975cbe6fb84af031ae9",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-William-Morris-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "c835100829b94c1935dc62960f8f14a11e6adb0a98b937461905afd913e2f901",
+      "thumbnailSHA256" : "d45436491cc8fb5f423c1cee5a8dd811724725271e949cfa8eb35c041774f80d",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-William-Morris-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T22:20:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -5379,5 +5379,5 @@
     "Hannah-Salisbury-Road.png"
   ],
   "schemaVersion" : 2,
-  "updated" : "2026-11-28T21:55:00Z"
+  "updated" : "2026-11-28T22:20:00Z"
 }
