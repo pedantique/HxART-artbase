@@ -3493,12 +3493,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Pierre-Bonnard.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "ab2ff043584c07718f18577249cc6b75ae81495cee83882d1de198a40de5d96c",
+      "imageSHA256" : "69b24b13370c7fd1df559f504a175b2f5d35db484a8dcb60c125f47d63ff09bc",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Pierre-Bonnard-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "1be92d665a7cc2100d7ec9014544106115746c8b24952bb807e3407f9db61043",
+      "thumbnailSHA256" : "f02c20f7c144954fe69a9ee3186a923eb9f45cef680cd6627505c35388594523",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Pierre-Bonnard-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T10:11:43Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -4053,12 +4053,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Tamara-de-Lempicka.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "e2807b440625ac9f7fa2e4c58f7ccfdd7e894b5f6b59b95e63f9ddb8278e78ea",
+      "imageSHA256" : "7fa04187bd334d92b91ad829cdbb80f39f2f09cc437336ad02bf61b12daaae41",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Tamara-de-Lempicka-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "61afd8909b1af5d4bca01650552702dc0b0e70523484568d76a3ebe97f89b5ac",
+      "thumbnailSHA256" : "cb74214bfb624fd44735861c519aa8e81431de0ca18f8ce40f5c93a98bcae08d",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Tamara-de-Lempicka-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T10:11:43Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -4137,12 +4137,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Thomas-Gainsborough.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "806379ab793192c317ae57a645b53b4fc45ee3ef2a02d8ffb88d8ccd5a10f094",
+      "imageSHA256" : "3e5dd3eb0891d6a0a14fae01c9fb4f469009f70f0aef83d05d91a161e9e51d65",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Thomas-Gainsborough-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "5f48bb02e9eb2c37754e2b5a9e2afc44266c6a21a79ab4633b85b0bd1fcd86ae",
+      "thumbnailSHA256" : "fd9870b723ec8a332fb171af8cf2180551eb5468a5df05ceaec479de85678b27",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Thomas-Gainsborough-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T10:11:43Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -4179,12 +4179,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Umberto-Boccioni.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "8669379ea5f331d07b2e11018486b6815fd42bed1f9737e3336082a1aca3dac6",
+      "imageSHA256" : "e7ad92db0545a750c4aff6dc1027d2e986f6140c57678b88863d0cf66e22a92f",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Umberto-Boccioni-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "09ed2c96c066fa100a737cc135843852bd7bcf70eb7f0301f1c3855ebc9f47a6",
+      "thumbnailSHA256" : "0d1415cd7280814b8b6bb19f70b50babf834345eff7c044aaccec9e87c5388c0",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Umberto-Boccioni-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T10:11:43Z"
     },
     {
       "addedAt" : "2026-11-16T02:20:21Z",
@@ -5393,5 +5393,5 @@
     "Hannah-Salisbury-Road.png"
   ],
   "schemaVersion" : 2,
-  "updated" : "2026-11-28T10:06:08Z"
+  "updated" : "2026-11-28T10:11:43Z"
 }
