@@ -3297,12 +3297,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Norman-Rockwell.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "3de1b79687a7ec52cc3186dd7cfe6ea6a0f878852273425f188a30ec902a16b9",
+      "imageSHA256" : "07b67a2ad51cd41d5a040bfe035cc847c458b526ae2925a2e579bdc7d17d3aef",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Norman-Rockwell-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "0e83e4e875b246e62d3c5e5b9eee44c60c6d59aaea621ad6c3bc3f8c7f9e9942",
+      "thumbnailSHA256" : "e711b32f0dd472f48b9cc82b1bef8175b89ae0f206f94d5598aa4165d7b636e3",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Norman-Rockwell-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T21:30:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -3325,12 +3325,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Otto-Dix.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "61227074a3c41daed1b476ed0b7e30d84c9b162d98ecd9c79e1ce2e44992cf82",
+      "imageSHA256" : "115be1361ca2f941414af94c62c02e4c147f36c61e1e610608c3c1bc72511e0d",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Otto-Dix-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "b6504bc9ae9656679b9bde44df8684781682901dbf1ed2250a140b3290f4f1dd",
+      "thumbnailSHA256" : "cd178e36cd1a8a55d59a8139c8523329c5a6b965f0b50eceb2bfd46aa339c667",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Otto-Dix-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T21:30:00Z"
     },
     {
       "addedAt" : "2026-11-19T04:02:36Z",
@@ -3395,12 +3395,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Paul-Gauguin.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "f0fcf91a9a403596bab859fa6c973e2b044296f4f7dfb82a51ed5fae67ef8800",
+      "imageSHA256" : "6b2b9bbaae078f6b00fee8b04d73ca22ee0bce2dc3e6e0388202b497a423f348",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Paul-Gauguin-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "c18dfdfad63c61ffccaeaccb5814c71e17e02dd241f9e1e1ecdc1a39f14c7cfc",
+      "thumbnailSHA256" : "7eb29d445a4edf68af7c0cd5244afaeab8982a511bea5d6ad5d18f88936df8cd",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Paul-Gauguin-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T21:30:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -3619,12 +3619,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Raphael-Sanzio.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "7ecc07a698a449eaf363d436edc4824b4d0d2829707f9ffef853e7f63680e9f0",
+      "imageSHA256" : "205fe40cd95edacda8725157ca500167cd76696299d5b42c32e0f2c7ea43c5f9",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Raphael-Sanzio-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "b2213745977b8050165e9fa8cfba5cb38544f79d39433d9ec9f4760b5333d046",
+      "thumbnailSHA256" : "e0e5386e9dbf788cc0385973b3d638c9d61521fd783ed1a033642ba64dd028cb",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Raphael-Sanzio-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T21:30:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -3675,12 +3675,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Rene-Magritte-The-Treachery-of-Images.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "1782844569d4e3fded90fe85922dc0fc9cf3f1ebc73cf11fe07c8379a0534bb3",
+      "imageSHA256" : "def28278a65b204fa9d3dbce83948ec92b936c5f209bf873504137a9c8eca6c6",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Rene-Magritte-The-Treachery-of-Images-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "16147343877666aaa31fa17907794823887bca3be9fa49033a5ecf1010830ce0",
+      "thumbnailSHA256" : "b257a07c81ab651ac624ab76f2ee0e537effb69945eb528355c275fcd089123d",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Rene-Magritte-The-Treachery-of-Images-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T21:30:00Z"
     },
     {
       "addedAt" : "2026-11-17T21:41:02Z",
@@ -3815,12 +3815,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Rupert-Bunny.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "166d82ec2bb24b62976623f91b4b58556587fac15a9c5d49e8f249dd096b4068",
+      "imageSHA256" : "c0f2472d9f6ca71e61d83e9b0d3a5f4dbb4504912185a5da80c21d25c6433c77",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Rupert-Bunny-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "5230076161253d9d4b07ae13f7382d6d7e6439d2ad65eb8805f31e2530e8699a",
+      "thumbnailSHA256" : "7af3fd5b00ddae371b0972fc5753969abe837d645811b4a69e89061ef4f6fd2e",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Rupert-Bunny-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T21:30:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -3857,12 +3857,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Salvador-Dali-The-Persistence-of-Memory.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "a743e2a8f85680bbf9dc19d25f35467b7bba312b5bd491490a1d75948eea6b4b",
+      "imageSHA256" : "4183d4e75f32e2b2c428d3a4fc3b42d13d87821ba288661672e5cb438371022c",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Salvador-Dali-The-Persistence-of-Memory-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "7faa2b6fe0b469330f8748b485f7b08b24aacc597bbf2d636b92bc0b0c453c79",
+      "thumbnailSHA256" : "fb8440a2dccbf5ffc5b8f76e9cd438c830d1da492d93f0a7fda4c5bcbf219635",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Salvador-Dali-The-Persistence-of-Memory-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T21:30:00Z"
     },
     {
       "addedAt" : "2026-11-19T04:02:36Z",
@@ -3969,12 +3969,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Sonia-Delaunay.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "1353d0a654f4d28b7800ec0d9846310f4b80d749d8fed15a9943a6e49ba91be1",
+      "imageSHA256" : "83b71f7f4df49c44a8ea78927070fe15c7f31eeea936891a002a348970b7aa3d",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Sonia-Delaunay-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "1b378bd51e8bcc6232cb4888c3a54d95015198e9887c1e06f49bddd453db0d15",
+      "thumbnailSHA256" : "cbcd29b41648dd3bc8329d27ce3fb467de867a2dd2808ca11fc5e2a5d7b8ea6e",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Sonia-Delaunay-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T21:30:00Z"
     },
     {
       "addedAt" : "2026-11-16T03:13:37Z",
@@ -4375,12 +4375,12 @@
       "category" : "Paintings",
       "id" : "Hannah-William-Dobell.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "1237d1d43a5c831b94b2f15a0ec9713ad9ff166465729d2251475f6de17fe78f",
+      "imageSHA256" : "f141f4eb789f2277b662108c070d512a325f76dfb3ef8d5e9a275fe51d4d18d9",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-William-Dobell-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "5d498282cf035b0d7065c74c502deee6426274e31d8b3b377476e4cc960c7755",
+      "thumbnailSHA256" : "fcdb0456f6311ef0950a21f9b62a17bb6a7b239eb4e48ff046f33a5305ee1393",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-William-Dobell-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T21:30:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -4459,12 +4459,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Yvette-Coppersmith.png",
       "imageFileExtension" : "png",
-      "imageSHA256" : "f1b3fe4bad1949fe2b94a74dcd71137c2ce5065e5ba1a32752ccee7a7b3642a0",
+      "imageSHA256" : "76d0f3c2a50466013cc6798ae1f258ace932bbe715d7f305a56feb29d5d122c8",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Yvette-Coppersmith-image.hxartpack",
       "thumbnailFileExtension" : "png",
-      "thumbnailSHA256" : "7352b007b7e3eef6c2d62c409af83e101c93e8ca7541fe6170cb4ea2352786e2",
+      "thumbnailSHA256" : "ccf57d11ba6b2c4a17c3f6dbe26fbb77146e685030070069d3aec2fd4ab63da9",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Yvette-Coppersmith-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T21:30:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -4487,12 +4487,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Edouard-Manet.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "3ba34fb6e622e5eb18a078bb328d4c3ef5b2e102bc11ed96d66f07547df8fdfe",
+      "imageSHA256" : "ebd0ee756f6eb26a4b4597479a0d4d7b6162987f137bfb547e0abd766cc98bc3",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Edouard-Manet-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "9bea308087161f7dec33473c43ba240112fae3a3e9b5a91dda81b6d47c6127bb",
+      "thumbnailSHA256" : "6f24b4e6d2c38229c9eaf4e8c886811d00443e5e746584c7f863a9c8396f8998",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Edouard-Manet-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T21:30:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -5379,5 +5379,5 @@
     "Hannah-Salisbury-Road.png"
   ],
   "schemaVersion" : 2,
-  "updated" : "2026-11-28T08:18:47Z"
+  "updated" : "2026-11-28T21:30:00Z"
 }
