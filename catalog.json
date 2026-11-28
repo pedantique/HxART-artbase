@@ -3619,12 +3619,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Raphael-Sanzio.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "205fe40cd95edacda8725157ca500167cd76696299d5b42c32e0f2c7ea43c5f9",
+      "imageSHA256" : "f34fd49cc9ae64109530b32be36e433fca7b1beff68e4eda55e4c4ec912cedf3",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Raphael-Sanzio-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "e0e5386e9dbf788cc0385973b3d638c9d61521fd783ed1a033642ba64dd028cb",
+      "thumbnailSHA256" : "21fa8279810d5348b632baefe074a73d73ee51402d631a3f44ae98da64ac3a25",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Raphael-Sanzio-thumb.hxartpack",
-      "updatedAt" : "2026-11-28T21:30:00Z"
+      "updatedAt" : "2026-11-28T21:55:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -3969,12 +3969,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Sonia-Delaunay.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "83b71f7f4df49c44a8ea78927070fe15c7f31eeea936891a002a348970b7aa3d",
+      "imageSHA256" : "b014ff8245a510d7103bf91b5091ea2ee54b03621a4417849ed12070479c97d6",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Sonia-Delaunay-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "cbcd29b41648dd3bc8329d27ce3fb467de867a2dd2808ca11fc5e2a5d7b8ea6e",
+      "thumbnailSHA256" : "f2e3fd86c764cfe09851ca18a3b13a37daeb08008aa500cb77c03affff41dbde",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Sonia-Delaunay-thumb.hxartpack",
-      "updatedAt" : "2026-11-28T21:30:00Z"
+      "updatedAt" : "2026-11-28T21:55:00Z"
     },
     {
       "addedAt" : "2026-11-16T03:13:37Z",
@@ -4375,12 +4375,12 @@
       "category" : "Paintings",
       "id" : "Hannah-William-Dobell.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "f141f4eb789f2277b662108c070d512a325f76dfb3ef8d5e9a275fe51d4d18d9",
+      "imageSHA256" : "d2123300c8ec3eb978740a6120c88ab2fa99cd802d6b4309062785c828104315",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-William-Dobell-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "fcdb0456f6311ef0950a21f9b62a17bb6a7b239eb4e48ff046f33a5305ee1393",
+      "thumbnailSHA256" : "3804414dcc92cb9ba443b472890c86e8ebefc47cb472eb9ea05c883c890fb8ef",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-William-Dobell-thumb.hxartpack",
-      "updatedAt" : "2026-11-28T21:30:00Z"
+      "updatedAt" : "2026-11-28T21:55:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -4459,12 +4459,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Yvette-Coppersmith.png",
       "imageFileExtension" : "png",
-      "imageSHA256" : "76d0f3c2a50466013cc6798ae1f258ace932bbe715d7f305a56feb29d5d122c8",
+      "imageSHA256" : "5dc2f1dd36f1aa21844f280d6062d817e4078b96f17b17895817c80e9cdb5174",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Yvette-Coppersmith-image.hxartpack",
       "thumbnailFileExtension" : "png",
-      "thumbnailSHA256" : "ccf57d11ba6b2c4a17c3f6dbe26fbb77146e685030070069d3aec2fd4ab63da9",
+      "thumbnailSHA256" : "65e379558e92890a18616cbdc4a6578ed6cc43b3c110c3ebc53cf6802644c8f4",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Yvette-Coppersmith-thumb.hxartpack",
-      "updatedAt" : "2026-11-28T21:30:00Z"
+      "updatedAt" : "2026-11-28T21:55:00Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -5379,5 +5379,5 @@
     "Hannah-Salisbury-Road.png"
   ],
   "schemaVersion" : 2,
-  "updated" : "2026-11-28T21:30:00Z"
+  "updated" : "2026-11-28T21:55:00Z"
 }
