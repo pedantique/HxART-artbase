@@ -3143,12 +3143,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Michelangelo-Merisi-da-Caravaggio.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "d6e0463b97e73eb8b7f922011f1f34446269671325e528ac9e6cefec62330da7",
+      "imageSHA256" : "d01fed6c40b9d57163daa2072c6f3f59c3862bf680c717234f880a790ab1b2c4",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Michelangelo-Merisi-da-Caravaggio-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "c2dd7da1abe53703af7631791868bdc61d81f72430582c8a89b45ffeec67368a",
+      "thumbnailSHA256" : "99707ed633df7875bdd2ccf29c7669995307b047939baf6e13cb059643bff664",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Michelangelo-Merisi-da-Caravaggio-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T10:06:08Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -3227,12 +3227,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Nicholas-Harding.png",
       "imageFileExtension" : "png",
-      "imageSHA256" : "7f5fe0d49d61729e30adc9f85b0a7dcd53716dfffa50c43dcb76d6be9f1601e3",
+      "imageSHA256" : "d893a65fcfca05b1815c94e52d50129fc1410e0da25847a5cfab0952093fa761",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Nicholas-Harding-image.hxartpack",
       "thumbnailFileExtension" : "png",
-      "thumbnailSHA256" : "270d1e5b971d821b111eb1c7559faf8bffc4148ea12004838aff7c3240325c9a",
+      "thumbnailSHA256" : "82e3e47b5d28aa3e8fccb469286eb19d97cfb209204162a421fc5f118f97389f",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Nicholas-Harding-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T10:06:08Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -3885,12 +3885,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Sandro-Botticelli.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "cceb4c6361180847a3662ef0d376d91219c0d78728ecb33077382605b661d56b",
+      "imageSHA256" : "2c37e19a768f2897f22e6456dcaae88357cc1655c6b350dba637ff49f8bef0e9",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Sandro-Botticelli-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "ff9537bb3209a047d75b75b09473f2b07d8c6f091d4350b5130a3d3bcde926a9",
+      "thumbnailSHA256" : "1b4699dbc5453193ea4998e90521978296e3261e09ceec0896cdfe64f27aad69",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Sandro-Botticelli-thumb.hxartpack",
-      "updatedAt" : "2026-11-19T04:02:36Z"
+      "updatedAt" : "2026-11-28T10:06:08Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -4235,12 +4235,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Vincent-van-Gogh-Saint-Remy.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "dd6fa64ec30441f9838503b9463a653acb27ff1cdf823c8459d69c27d3a4bb1d",
+      "imageSHA256" : "68f88b251eab79308e6d19f197725436674b5aa5bbfaf4ef7a78429abe3c4db9",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Vincent-van-Gogh-Saint-Remy-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "7fcf4613d4471451401c581bf3f246afbe12cc783c3c7c40b1c3ad8aaf5b65c1",
+      "thumbnailSHA256" : "5cad5ee40b9ab50975e872f7cf4f58bdd99b29f97f70eaeb242a422250250382",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Vincent-van-Gogh-Saint-Remy-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T10:06:08Z"
     },
     {
       "addedAt" : "2026-11-23T10:09:36Z",
@@ -4529,12 +4529,12 @@
       "category" : "Paintings",
       "id" : "Hannah-Elisabeth-Louise-Vigee-Le-Brun.jpg",
       "imageFileExtension" : "jpg",
-      "imageSHA256" : "083b061ce6e02dedf72d8140a4ba93407633216db17be23a691707d6b1e87a75",
+      "imageSHA256" : "a6ca5611f947b2ca97bb990ae1500645b6082e8c052823eab640a5457381c913",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Elisabeth-Louise-Vigee-Le-Brun-image.hxartpack",
       "thumbnailFileExtension" : "jpg",
-      "thumbnailSHA256" : "f7cf2f2258db0397c2a27802dd270ad04c5575c165287ec2d18eb03fe9f01fe0",
+      "thumbnailSHA256" : "67683a17c616e0114c3f4a3499b508c5ca89d09eb41dfc4d75eb6d5c8ef88c2c",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-Elisabeth-Louise-Vigee-Le-Brun-thumb.hxartpack",
-      "updatedAt" : "2026-11-23T10:09:36Z"
+      "updatedAt" : "2026-11-28T10:06:08Z"
     },
     {
       "addedAt" : "2026-11-26T00:12:11Z",
@@ -5393,5 +5393,5 @@
     "Hannah-Salisbury-Road.png"
   ],
   "schemaVersion" : 2,
-  "updated" : "2026-11-28T22:45:00Z"
+  "updated" : "2026-11-28T10:06:08Z"
 }
