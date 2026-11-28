@@ -4879,12 +4879,12 @@
       "category" : "Television",
       "id" : "Hannah-The-Golden-Girls.png",
       "imageFileExtension" : "png",
-      "imageSHA256" : "d7f8518ae0eb0a668453c280f412916a5b0606d7d74f46d289fec8b835e5c6dd",
+      "imageSHA256" : "655dbe627a14baec5fb4bbd04b7884fd1ae113a36716a380fdef0998237efe1d",
       "imageURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Golden-Girls-image.hxartpack",
       "thumbnailFileExtension" : "png",
-      "thumbnailSHA256" : "b143827b65bba4747811de6b427fc45ae56dfa0e2d481709761f02645694775f",
+      "thumbnailSHA256" : "b5fe00e9efc5ac84556604773279464c1c8ce454d64893a548fe60133e119cb7",
       "thumbnailURL" : "https://raw.githubusercontent.com/pedantique/HxART-artbase/main/packs/Hannah-The-Golden-Girls-thumb.hxartpack",
-      "updatedAt" : "2026-11-27T03:17:28Z"
+      "updatedAt" : "2026-11-28T08:18:47Z"
     },
     {
       "addedAt" : "2026-11-26T10:11:38Z",
@@ -5379,5 +5379,5 @@
     "Hannah-Salisbury-Road.png"
   ],
   "schemaVersion" : 2,
-  "updated" : "2026-11-27T23:22:06Z"
+  "updated" : "2026-11-28T08:18:47Z"
 }
